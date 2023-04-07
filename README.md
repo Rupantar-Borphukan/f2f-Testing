@@ -1,2 +1,1 @@
-# f2f-Testing
-For Testing purpose of F2F &amp; update of official page...
+# F2F
